@@ -6,6 +6,7 @@
     <groupId>com.cyl.spring</groupId>
     <artifactId>spring-cloud-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
     <name>spring-cloud-demo</name>
     <description>Demo project for Spring Boot</description>
 
